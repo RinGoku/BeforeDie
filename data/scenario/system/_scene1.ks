@@ -2,4 +2,7 @@
 [preload  storage="./data/bgimage/rouka.jpg"  ]
 [preload  storage="./data/bgimage/hiru.jpg"  ]
 [preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/josei_06_a.png"  ]
+[preload  storage="./data/fgimage/chara/1/josei_06_c.png"  ]
+[preload  storage="./data/fgimage/chara/1/josei_06_f.png"  ]
 [return]
