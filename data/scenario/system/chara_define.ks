@@ -4,4 +4,5 @@
 
 ;=========変数宣言部分 
 [iscript] 
+f['h_name']='杉並'; 
 [endscript] 
