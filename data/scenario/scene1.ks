@@ -355,7 +355,7 @@
 俺は食堂の扉近くで所在なさげにしている由紀子に声をかけた。[p]
 [_tb_end_text]
 
-[chara_show  name="由紀子"  time="1000"  wait="true"  storage="chara/1/josei_06_d.png"  width="400"  height="1100"  ]
+[chara_show  name="由紀子"  time="1000"  wait="true"  left="459"  top="-6"  width="400"  height="1100"  reflect="false"  storage="chara/1/josei_06_c.png"  ]
 [tb_start_text mode=1 ]
 #由紀子
 「どうしてそんなこと聞くのよ？」[p]
@@ -368,7 +368,23 @@
 すると...[p]
 ボン！[p]
 そんな軽い音とともにピンクの皿の上にカレーライスが出現した。[p]
-まさかと思ったが、[p]
+まさかと思ったが、やはりそうらしい。[p]
+#&  f.h_name
+「カレーライスが食べたいのか？」[p]
+#
+[_tb_end_text]
+
+[chara_mod  name="由紀子"  time="600"  cross="true"  storage="chara/1/josei_06_f.png"  ]
+[tb_start_text mode=1 ]
+#由紀子
+「え...？どうしてわかったの？」[p]
+#
+由紀子は怪訝そうにそう言う。[p]
+#&  f.h_name
+「こっちまで来ればその理由がわかるぞ」[p]
+#
+それにしても、食べたいものが勝手に提供される厨房か。[p]
+
 [_tb_end_text]
 
 [s  ]
